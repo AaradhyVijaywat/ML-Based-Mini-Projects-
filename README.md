@@ -1,1 +1,1 @@
-# ML-Based-Mini-Projects-
+# ML-Model-Based-Mini-Projects
